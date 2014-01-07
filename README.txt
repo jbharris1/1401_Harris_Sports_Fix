@@ -7,6 +7,8 @@ Change Log
 
 1-7-2014  Created Repo and ReadMe file.
 
+1-7-2014 Updated ReadMe file.
+
 
 
 
