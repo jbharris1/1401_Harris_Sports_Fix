@@ -1,0 +1,1 @@
+Images and helper files will go into this asset folder when necessary.
