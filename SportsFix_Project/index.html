@@ -1,17 +1,18 @@
-<html ng-app>
+<html ng-app="App">
 <head>
 	<title>Sports Fix</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 </head>
 <body>
-	<div class="container" ng-controller="appCtrl">
+	<div class="container" ng-controller = 'FetchCtrl'>
 		<h1>Welcome to Sports Fix!</h1>
+
+		<pre>{{data.headlines[0].description}}</pre>
 	</div>
 
 <!-- Javascript here -->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript" src="js/lib/angular.min.js"></script>
 	<script type="text/javascript" src="js/lib/angular-resource.min.js"></script>
-	<script type="text/javascript" src="js/lib/controllers/appCtrl.js"></script>
+	<script type="text/javascript" src="js/controllers/appCtrl.js"></script>
 </body>
 </html>
