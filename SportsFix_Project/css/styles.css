@@ -1,0 +1,68 @@
+body{
+	background-color: rgb(25,25,25);
+	color: rgb(199,193,114);
+}
+
+header{
+	margin-bottom: 20px;
+}
+
+#join{
+	background-color: rgb(199,193,114);
+	color: rgb(25,25,25);
+	width: 450px;
+	height: 100px;
+	padding: 20px;
+	margin-top: 20px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#logo h1{
+	width: 250px;
+	height: 100px;
+	background: url("../assets/images/sports-fix_logo.png");
+	text-indent: -9999px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#hero{
+	position: relative;
+	width: 1280px;
+	height: 400px;
+	background: url("../assets/images/signup-banner.jpg") no-repeat;
+}
+
+#hotspot{
+	position: absolute;
+	top: 300px;
+	left: 700px;
+}
+
+.btn{
+	background-color: rgb(199,193,114);
+	color: rgb(255,0,0);
+}
+
+#submit{
+	background-color: rgb(255,0,0);
+	color: rgb(255,255,255);
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.jumbotron{
+	margin-left: 10px;
+}
+
+.center{
+	text-align: center;
+}
+

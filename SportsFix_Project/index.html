@@ -2,12 +2,39 @@
 <head>
 	<title>Sports Fix</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/styles.css" />
 </head>
 <body>
-	<div class="container" ng-controller = 'FetchCtrl'>
-		<h1>Welcome to Sports Fix!</h1>
+	<div class="container">
+		<header class="row">
+			<div id="logo" class="col-lg-6 col-sm-5">
+				<h1>Sports Fix</h1>
+			</div>
+			<div id="join" class="col-lg-6 col-sm-7">
+				<form id="login">
+					<table>
+						<td><input type="text" placeholder="username" /></td>
+						<td><input type="password" placeholder="password" /></td>
+						<td><input type="submit" id="submit" value="Submit" /></td>
+					</table>
+				</form>
+				<p>Not a member <a href="#">join</a> now.</p>
+			</div>
+		</header>
 
-		<pre>{{data.headlines[0].description}}</pre>
+		<div id="hero" class="row col-lg-12 jumbotron img-responsive">
+			<div id="hotspot" class="btn btn-default btn-lg"><p>Register Now</p></div>
+		</div>
+
+		<footer class="row">
+		<div class="col-lg-6 col-xs-6">
+			<p>&copy;2014 Jason Harris all rights reserved</p>
+		</div>
+		<div class="col-lg-6 col-xs-6">
+			<p class="center">FullSail University Mobile Device Deployment</p>
+		</div>
+		</footer>
+
 	</div>
 
 <!-- Javascript here -->
