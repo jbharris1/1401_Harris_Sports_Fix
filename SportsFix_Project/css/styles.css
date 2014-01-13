@@ -1,6 +1,8 @@
 body{
 	background-color: rgb(25,25,25);
 	color: rgb(199,193,114);
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 12px;
 }
 
 header{
@@ -10,14 +12,18 @@ header{
 #join{
 	background-color: rgb(199,193,114);
 	color: rgb(25,25,25);
-	width: 450px;
+	width: 480px;
 	height: 100px;
 	padding: 20px;
-	margin-top: 20px;
+	margin: 20px 0px 0px -20px;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	-o-border-radius: 10px;
 	border-radius: 10px;
+}
+
+table{
+	margin-left: -10px;
 }
 
 #logo h1{
