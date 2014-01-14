@@ -1,7 +1,38 @@
 <<<<<<< HEAD
-Welcome to the repository for MDD 1401 Ð Harris: Sports FixThis application will enable users to view the top headlines, stories and videos from ESPN.  I will build this application using Twitter Bootstrap 3, AngularJS.  This will be a responsive application allowing users to view sports information via a computer browser as well as from their mobile phones.  Change Log1-7-2014  Created Repo and ReadMe file.
+
+The name of my database is SportsApp, the username is root, and the password is USArmy09
+
+__________________________________________________________________________________________________
+
+I am now using CodeIgniter for MVC in my project. All files including the SQL dump can be found inside the root directory of CodeIgniter 2.1.4 folder in the join folder.
+
+__________________________________________________________________________________________________
+
+Welcome to the repository for MDD 1401 ï¿½ Harris: Sports Fix
+
+This application will enable users to view the top headlines, stories and videos from 
+ESPN.  I will build this application using Twitter Bootstrap 3, AngularJS.  This will be a responsive application allowing users to view sports information via a computer browser as well as from their mobile phones.  
+
+Change Log
+
+1-7-2014  Created Repo and ReadMe file.
+
+
+
+
 ||||||| merged common ancestors
-Welcome to the repository for MDD 1401 Ð Harris: Sports FixThis application will enable users to view the top headlines, stories and videos from ESPN.  I will build this application using Twitter Bootstrap 3, and AngularJs.  This will be a responsive application allowing users to view sports information via a computer browser as well as from their mobile phones.  Change Log1-7-2014  Created Repo and ReadMe file.
+Welcome to the repository for MDD 1401 ï¿½ Harris: Sports Fix
+
+This application will enable users to view the top headlines, stories and videos from 
+ESPN.  I will build this application using Twitter Bootstrap 3, and AngularJs.  This will be a responsive application allowing users to view sports information via a computer browser as well as from their mobile phones.  
+
+Change Log
+
+1-7-2014  Created Repo and ReadMe file.
+
+
+
+
 =======
 Welcome to the repository for MDD 1401 ï¿½ Harris: Sports Fix
 
@@ -9,6 +40,8 @@ This application will enable users to view the top headlines, stories and videos
 ESPN.  I will build this application using Twitter Bootstrap 3, and AngularJS.  This will be a responsive application allowing users to view sports information via a computer browser as well as from their mobile phones.  
 
 Change Log
+
+1-14-2014 Updated ReadMe file with information about MVC and database information
 
 1-7-2014  Created Repo and ReadMe file.
 
