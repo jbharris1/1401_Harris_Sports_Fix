@@ -56,3 +56,18 @@ ________
 
 SQL Dump placed in assets folder within SportsFix_Project file on January 10, 2014
 ________
+
+January 22, 2014
+
+Unfortunately my database crashed so I am in the process of revamping my application of Sports Fix.
+
+I have decided to use BackboneJS, UnderScoreJS, Handlebars, and JQuery to mock up my application.
+
+I am using BackboneJS to handle the Model, View, Controller (MVC) portion of the application, while 
+UnderScoreJS and HandlebarsJS are taking care of the templating of my different views.  UnderScoreJS
+is a dependency of Backbone originally and also created by the same person that created BackboneJS.
+JQuery is also a dependency of BackboneJS but I will also use the JQuery library to do some animation
+of the views.
+
+I already have the beginning of the application done, where I have implemented the libraries in which I will 
+commit those files up to GitHub as well.
